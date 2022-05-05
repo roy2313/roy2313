@@ -11,7 +11,7 @@ window.addEventListener('load', function(){
 // iTyped 
 
 window.ityped.init(document.querySelector('.iTyped'), {
-    strings: ["Three!", 'Two!', 'One!', '傻狗！'],
+    strings: ["Three!", 'Two!', 'One!', 'Go！'],
     loop: true
 });
 

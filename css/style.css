@@ -546,9 +546,9 @@ select {
 }
 
 .about .about-content .about-text p {
-    font-size: 16px;
+    font-size: 20px;
     line-height: 25px;
-    color: #020203;
+    color: #000000;
     margin: 0;
 }
 
@@ -568,7 +568,7 @@ select {
 .about .about-content .personal-info .info-item p {
     font-weight: 600;
     padding: 10px 0;
-    font-size: 16px;
+    font-size: 20px;
     margin: 0;
     color: #302e4d;
     border-bottom: 1px solid #e8dfec;
